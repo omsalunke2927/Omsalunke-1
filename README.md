@@ -1,2 +1,3 @@
 # Omsalunke-1
-This my first Repository.
+This my first Git Repository.
+Author-Om Salunke
